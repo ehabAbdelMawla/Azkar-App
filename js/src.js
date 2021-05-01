@@ -1,5 +1,6 @@
 console.log("Ehab__1");
-const server_url = "http://localhost:8000"
+const server_url = "https://fierce-escarpment-13662.herokuapp.com"
+    // const server_url = "http://localhost:8000"
 
 
 const versionNumber = "0.9.9";
